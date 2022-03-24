@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692515764423",
+    "project_id": "puglia-ricambi-2142f",
+    "storage_bucket": "puglia-ricambi-2142f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692515764423:android:070fb3e23cf255aea866e2",
+        "android_client_info": {
+          "package_name": "com.pugliaricambi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692515764423-spdqn0o4ovmij3jhbbi0egok1rcnahuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pugliaricambi.app",
+            "certificate_hash": "4c7e4cd58df905d6baa2d9911479f8db96446013"
+          }
+        },
+        {
+          "client_id": "692515764423-tpcs1ptrqh8nutqq3it5nneuu4vboalc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pugliaricambi.app",
+            "certificate_hash": "50a6bef73b28e370e3bd0d4b144eee20a1fce2b3"
+          }
+        },
+        {
+          "client_id": "692515764423-jg0mhrt3k0ds28vsg3t281v4ckm8eeev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAB-LsB40Ft4PlrI1c-JItu-RO_JhdFOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692515764423-jg0mhrt3k0ds28vsg3t281v4ckm8eeev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
